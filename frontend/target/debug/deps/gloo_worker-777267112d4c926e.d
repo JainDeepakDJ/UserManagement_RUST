@@ -1,0 +1,11 @@
+D:\Rust\rustfs\frontend\target\debug\deps\libgloo_worker-777267112d4c926e.rmeta: C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\lib.rs C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\link.rs C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\pool.rs C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\worker\mod.rs C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\worker\private.rs C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\worker\public.rs C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\worker\queue.rs
+
+D:\Rust\rustfs\frontend\target\debug\deps\gloo_worker-777267112d4c926e.d: C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\lib.rs C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\link.rs C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\pool.rs C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\worker\mod.rs C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\worker\private.rs C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\worker\public.rs C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\worker\queue.rs
+
+C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\lib.rs:
+C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\link.rs:
+C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\pool.rs:
+C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\worker\mod.rs:
+C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\worker\private.rs:
+C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\worker\public.rs:
+C:\Users\deepa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-worker-0.1.2\src\worker\queue.rs:

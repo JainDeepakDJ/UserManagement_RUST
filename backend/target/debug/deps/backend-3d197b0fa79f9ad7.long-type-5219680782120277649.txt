@@ -1,0 +1,1 @@
+for<'a> fn(&'a rocket::State<tokio_postgres::Client>) -> impl std::future::Future<Output = Result<Json<Vec<User>>, rocket::response::status::Custom<std::string::String>>> {get_users}
