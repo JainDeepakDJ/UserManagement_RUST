@@ -191,7 +191,7 @@ html! {
                         </button>
 
                         <button onclick = {edit_user.clone().reform(move |_| user_id)}
-                        class = "ml-4 bg-yellow-500 hover:bg-red-700 text-white font-bold py-1 px-2 rounded"
+                        class = "ml-4 bg-yellow-500 hover:bg-yellow-700 text-white font-bold py-1 px-2 rounded"
                         >
                         {"Edit"}
                         </button>
